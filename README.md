@@ -10,4 +10,4 @@ This paper presents STNeRF, a method for reconstructing 3D information of a targ
 ![result_1.png](https://github.com/ll594282475/STNeRF/blob/main/pic/result_1.png)
 
 
-The code is coming soon.
+# The code is coming soon.
