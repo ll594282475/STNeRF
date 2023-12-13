@@ -7,8 +7,10 @@ This paper presents STNeRF, a method for reconstructing 3D information of a targ
 ![framework.png](https://github.com/ll594282475/STNeRF/blob/main/pic/framework_new.png)
 
 # Results
-![result_1.png](https://github.com/ll594282475/STNeRF/blob/main/pic/003512_00_patch.png)
-![result_1.png](https://github.com/ll594282475/STNeRF/blob/main/pic/vis.gif)
+ | Ori  |  Output |
+| ------------ | ------------ |
+|  ![result_1.png](https://github.com/ll594282475/STNeRF/blob/main/pic/003512_00_patch.png) | ![result_1.png](https://github.com/ll594282475/STNeRF/blob/main/pic/vis.gif)  |
+
 
 ![result_1.png](https://github.com/ll594282475/STNeRF/blob/main/pic/result_1.png)
 
