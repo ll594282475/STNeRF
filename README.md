@@ -9,7 +9,7 @@ This paper presents STNeRF, a method for reconstructing 3D information of a targ
 # Results
  | Ori  |  Output |
 | ------------ | ------------ |
-|  <img src="pic/003512_00_patch.png" alt="drawing" width="200"/> | <img src="pic/vis.gif" alt="drawing" width="200"/> |
+|  <img src="pic/003512_00_patch.png" alt="drawing" width="200"/> | <img src="pic/vis1.gif" alt="drawing" width="200"/> |
 
 
 ![result_1.png](https://github.com/ll594282475/STNeRF/blob/main/pic/result_1.png)
